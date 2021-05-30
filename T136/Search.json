@@ -1,0 +1,2 @@
+[{"name": "lord of the flies", "ejs":"flies" , "img" : "/flies.jpg"}, {"name":"Leaves of Grass" , "ejs":"leaves", "img":"/leaves.jpg"}, {"name":"The Sun and Her Flowers","ejs":"sun" , "img":"/sun.jpg"},
+    {"name":"Dune", "ejs":"dune",  "img":"/dune.jpg"},{"name":"To Kill a Mockingbird","ejs":"mockingbird", "img":"/mockingbird.jpg"},{"name":"The Grapes of Wrath","ejs":"grapes" , "img":"/grapes.jpg"}]
